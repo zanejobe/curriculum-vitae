@@ -4,8 +4,8 @@ _Sedimentologist and research professor at Colorado School of Mines_ <br>
 
 ## Experience
 
-**Research professor** @ [Colorado School of Mines](https://core.mines.edu) _(May 2016 - Present)_ <br>
-Director of the Chevron Center of Resaerch Excellence in the Geology department
+**Research professor** @ Colorado School of Mines _(May 2016 - Present)_ <br>
+Director of the [Chevron Center of Research Excellence](https://core.mines.edu) in the Geology department
   - one
   - two
   - three
