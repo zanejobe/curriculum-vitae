@@ -2,6 +2,8 @@
 
 _Sedimentologist and research professor at Colorado School of Mines_ <br>
 
+## Work in progress - stay tuned (August 2022)
+
 ## Experience
 
 **Research professor** @ Colorado School of Mines _(May 2016 - Present)_ <br>
