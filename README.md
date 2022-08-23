@@ -3,7 +3,8 @@
 _Sedimentologist and research professor at Colorado School of Mines_ <br>
 
 ## Work in progress - stay tuned (August 2022)
-https://carolstran.github.io/cv/
+ inspired from https://carolstran.github.io/cv/
+ my link is https://zanejobe.github.io/cv/
 
 ## Experience
 
