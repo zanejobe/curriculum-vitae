@@ -2,14 +2,18 @@
 
 _Sedimentologist and Research Professor at Colorado School of Mines_ <br>
 
+[Email](mailto:zanejobe@mines.edu) / [Website](https://core.mines.edu/) / [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) / [GitHub](https://github.com/zanejobe/) / [Twitter](https://twitter.com/zanejobe/) / [DEV](https://dev.to/carolstran/) / [LinkedIn](https://www.linkedin.com/in/zane-jobe/)
+
 ## Work in progress - stay tuned (August 2022)
 inspired from https://carolstran.github.io/cv/
 
 my link is https://zanejobe.github.io/curriculum-vitae/
 
+
+
 ## Experience
 
-**Research professor** @ Colorado School of Mines _(May 2016 - Present)_ <br>
+**Research Professor** @ Colorado School of Mines] _(May 2016 - Present)_ <br>
 Director of the [Chevron Center of Research Excellence](https://core.mines.edu) in the Geology department
   - one
   - two
@@ -45,11 +49,8 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 # STORAGE
-# Carolyn Stransky
 
-_Software engineer and journalist based in Berlin, Germany_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
 ## 👩🏼‍💻 Engineering Experience
 
