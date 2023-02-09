@@ -1,6 +1,6 @@
 # Zane Jobe
 
-_Sedimentologist and research professor at Colorado School of Mines_ <br>
+_Sedimentologist and Research Professor at Colorado School of Mines_ <br>
 
 ## Work in progress - stay tuned (August 2022)
 inspired from https://carolstran.github.io/cv/
