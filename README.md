@@ -2,18 +2,16 @@
 
 _Sedimentologist and Research Professor at Colorado School of Mines_ <br>
 
-[Email](mailto:zanejobe@mines.edu) / [Website](https://core.mines.edu/) / [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) / [GitHub](https://github.com/zanejobe/) / [Twitter](https://twitter.com/zanejobe/) / [DEV](https://dev.to/carolstran/) / [LinkedIn](https://www.linkedin.com/in/zane-jobe/)
+[Email](mailto:zanejobe@mines.edu) / [Website](https://core.mines.edu/) / [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) / [GitHub](https://github.com/zanejobe/) / [Twitter](https://twitter.com/zanejobe/) / [LinkedIn](https://www.linkedin.com/in/zane-jobe/)
 
 ## Work in progress - stay tuned (August 2022)
 inspired from https://carolstran.github.io/cv/
 
 my link is https://zanejobe.github.io/curriculum-vitae/
 
-
-
 ## Experience
 
-**Research Professor** @ Colorado School of Mines] _(May 2016 - Present)_ <br>
+:teacher: **Research Professor** @ Colorado School of Mines] _(May 2016 - Present)_ <br>
 Director of the [Chevron Center of Research Excellence](https://core.mines.edu) in the Geology department
   - one
   - two
