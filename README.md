@@ -9,6 +9,11 @@ inspired from https://carolstran.github.io/cv/
 
 my link is https://zanejobe.github.io/curriculum-vitae/
 
+:mortar_board: ## Education
+- 2004 B.S., Geology, University of Texas at Arlington
+- 2010 Ph.D., Geology, Stanford University
+<br><br>
+
 ## Experience
 
 :teacher: **Research Professor** @ Colorado School of Mines] _(May 2016 - Present)_ <br>
