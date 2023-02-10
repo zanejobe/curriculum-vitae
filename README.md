@@ -53,7 +53,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 # STORAGE
 
-
+https://github-emoji-picker.rickstaa.dev
 
 ## 👩🏼‍💻 Engineering Experience
 
