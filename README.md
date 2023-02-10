@@ -9,7 +9,7 @@ inspired from https://carolstran.github.io/cv/
 
 my link is https://zanejobe.github.io/curriculum-vitae/
 
-:mortar_board: ## Education
+## Education :mortar_board: 
 - 2004 B.S., Geology, University of Texas at Arlington
 - 2010 Ph.D., Geology, Stanford University
 <br><br>
