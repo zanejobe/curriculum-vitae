@@ -1,5 +1,7 @@
 # Zane Jobe
 
+![Zane Jobe](https://core.mines.edu/wp-content/uploads/sites/206/2019/04/zane-jobe.jpg){:class="img-responsive"}
+
 _Sedimentologist and Research Professor at Colorado School of Mines_ <br>
 
 [Email](mailto:zanejobe@mines.edu) / [Website](https://core.mines.edu/) / [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) / [GitHub](https://github.com/zanejobe/) / [Twitter](https://twitter.com/zanejobe/) / [LinkedIn](https://www.linkedin.com/in/zane-jobe/)
