@@ -1,3 +1,5 @@
+![Zane Jobe](https://core.mines.edu/wp-content/uploads/sites/206/2019/04/zane-jobe.jpg)
+
 # Zane Jobe
 
 _Sedimentologist and Research Professor at Colorado School of Mines_ <br>
